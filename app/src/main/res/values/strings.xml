@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Love Calculator</string>
+    <string name="title">How much do you love your partner ?</string>
+    <string name="sub_title">and other cute stupid thinks to calculate</string>
+    <string name="your_name">Your Name </string>
+    <string name="partner_name">Partner Name </string>
+    <string name="result">Result !</string>
+    <string name="share">Share it now</string>
+</resources>
